@@ -6,7 +6,7 @@ A food delivery app built using kubernetes, which is a modernized hybrid cloud a
 
 ## Build with
 
-Built using technologies such as react native(v0.67), Node(v16.14.2), MySQL, Typescript.
+Built using technologies such as [react native](https://reactnative.dev/)(v0.67), [Node](https://nodejs.org/)(v16.14.2), MySQL 2, [Typescript](https://www.typescriptlang.org/).
 Main libraries used are React Native Navigation, React Native Maps.
 
 ## Packages
