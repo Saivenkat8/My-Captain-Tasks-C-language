@@ -26,14 +26,6 @@ cd FrontEndFinal/
 npm install
 npm run android
 ```
-## Running The App
-
-Run the following commands
-
-```
-npm start
-```
-
 
 
 
